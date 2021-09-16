@@ -1,7 +1,7 @@
 
 # Project Title
 
-Project for Node sign up,login implementation
+Project for PERN stack task list with CRUD operation
 
 
 ## Tech Stack
