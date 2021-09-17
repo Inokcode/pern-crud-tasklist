@@ -6,24 +6,25 @@ Project for PERN stack task list with CRUD operation
 
 ## Tech Stack
 
-**Client:** ejs,postman
+**Client:** react, bootstrap 4, postman
 
-**Server:** node, express, mongoose, bcrypt, jsonwebtoken, cookie-parser, validator
+**Server:** node, express, nodemon, cors, pg, postgre SQL
 
   
 ## Features
 
-- sign up
-- log in
-- log out
+- Add new task
+- View all task
+- Update task'/modal
+- Delete task
   
   
 ## Screenshots
 
-![App Screenshot](./public/screen1.png)
-![App Screenshot](./public/screen2.png)
-![App Screenshot](./public/screen3.png)
-![App Screenshot](./public/screen4.png)
+![App Screenshot](./client/public/screen1.png)
+![App Screenshot](./client/public/screen2.png)
+<!-- ![App Screenshot](./public/screen3.png)
+![App Screenshot](./public/screen4.png) -->
 
   
 ## Demo
